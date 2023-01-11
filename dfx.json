@@ -1,0 +1,8 @@
+{
+    "canisters": {
+        "manual_firts_project": {
+            "main": "main.mo",
+            "type": "motoko"
+        }
+    }
+}
